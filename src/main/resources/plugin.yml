@@ -1,0 +1,7 @@
+name: CommandCooldowns
+version: '${project.version}'
+main: me.kodysimpson.commandcooldowns.CommandCooldowns
+api-version: 1.17
+commands:
+  fart:
+    description: I just farted.
